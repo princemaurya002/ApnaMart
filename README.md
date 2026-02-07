@@ -10,8 +10,8 @@ This project is architected as a **versatile, multi-purpose e-commerce solution*
 
 The repository is organized into two distinct Flutter applications:
 
-*   **`CustomerApp/` (ephamarcy):** The mobile application used by customers to browse products, manage their cart, and place orders. This app is designed for a seamless shopping experience.
-*   **`AdminApp/` (ecommerceadmin):** The administrative dashboard for store owners and managers. It allows for product management, order tracking, and viewing sales analytics.
+*   **`CustomerApp/`:** The mobile application used by customers to browse products, manage their cart, and place orders. This app is designed for a seamless shopping experience.
+*   **`AdminApp/`:** The administrative dashboard for store owners and managers. It allows for product management, order tracking, and viewing sales analytics.
 
 ## Tech Stack Overview
 
@@ -31,7 +31,7 @@ Before running any of the applications, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone (https://github.com/princemaurya002/ApnaMart)
     cd ApnaMart
     ```
 
